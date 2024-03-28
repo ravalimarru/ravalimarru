@@ -1,4 +1,6 @@
-- 👋 Hi, I’m ravalimarru
+# 👋 Hi, I’m ravalimarru
+
+- 
 - 👀 I’m interested in python,sql,mongodb,java,r language,java script,html
 - 🌱 I’m currently learning mongodb
 - 📫 How to reach marrusony@gmail.com,Ravali Rao on linkedin
